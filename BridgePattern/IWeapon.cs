@@ -1,5 +1,8 @@
 namespace BridgePattern
 {
+    /// <summary>
+    /// 抽象层
+    /// </summary>
     public interface IWeapon
     {
         void Wield();

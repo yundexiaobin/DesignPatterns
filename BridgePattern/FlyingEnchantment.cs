@@ -2,6 +2,9 @@ using System;
 
 namespace BridgePattern
 {
+    /// <summary>
+    /// IEnchantment 的一个实现
+    /// </summary>
     public class FlyingEnchantment : IEnchantment
     {
         public void OnActivate()

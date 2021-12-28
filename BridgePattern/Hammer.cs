@@ -2,6 +2,9 @@ using System;
 
 namespace BridgePattern
 {
+    /// <summary>
+    /// IWeapon 的一个实现
+    /// </summary>
     public class Hammer : IWeapon
     {
         private readonly IEnchantment _enchantment;

@@ -2,6 +2,9 @@ using System;
 
 namespace BridgePattern
 {
+    /// <summary>
+    /// IWeapon 的另一个实现
+    /// </summary>
     public class Sword : IWeapon
     {
         private readonly IEnchantment _enchantment;

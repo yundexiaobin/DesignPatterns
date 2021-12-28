@@ -2,6 +2,9 @@ using System;
 
 namespace BridgePattern
 {
+    /// <summary>
+    /// IEnchantment 的另一个实现
+    /// </summary>
     public class SoulEatingEnchantment : IEnchantment
     {
         public void OnActivate()

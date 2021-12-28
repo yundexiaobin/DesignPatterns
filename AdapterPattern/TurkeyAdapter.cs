@@ -2,6 +2,9 @@
 
 namespace AdapterPattern
 {
+    /// <summary>
+    /// ITurkey接口适配器
+    /// </summary>
     public class TurkeyAdapter : IDuck
     {
         private readonly ITurkey _turkey;

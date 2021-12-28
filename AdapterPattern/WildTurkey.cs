@@ -2,6 +2,9 @@
 
 namespace AdapterPattern
 {
+    /// <summary>
+    /// 另一个数据提供方
+    /// </summary>
     class WildTurkey : ITurkey
     {
         public void Gobble()

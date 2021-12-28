@@ -1,6 +1,10 @@
 ﻿namespace BuilderPattern
 {
-
+    
+    /// <summary>
+    /// 主管类
+    /// </summary>
+    
     // This class can also be called the Director
     public class Cook
     {

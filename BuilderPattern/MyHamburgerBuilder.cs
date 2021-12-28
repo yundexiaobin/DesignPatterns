@@ -1,5 +1,8 @@
 ﻿namespace BuilderPattern
 {
+    /// <summary>
+    /// 具体生成器1
+    /// </summary>
     public class MyHamburgerBuilder : IBuilder
     {
         private Hamburger _hamburger;

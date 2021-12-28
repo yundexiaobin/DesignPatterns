@@ -1,6 +1,9 @@
 ﻿
 namespace BuilderPattern
 {
+    /// <summary>
+    /// 产品
+    /// </summary>
     public class Hamburger
     {
         public int Size { get; set; }

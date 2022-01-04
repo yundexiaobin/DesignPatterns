@@ -1,5 +1,8 @@
 ﻿namespace Ducks
 {
+    /// <summary>
+    /// 策略模式
+    /// </summary>
     internal class Duck
     {
         private IQuackBehaviour _quacker;

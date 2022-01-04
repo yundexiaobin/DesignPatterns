@@ -1,5 +1,8 @@
 ﻿namespace IteratorPattern
 {
+    /// <summary>
+    /// 迭代器模式
+    /// </summary>
     static class Program
     {
         private static void Main()

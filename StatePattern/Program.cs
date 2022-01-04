@@ -2,6 +2,9 @@
 
 namespace StatePattern
 {
+    /// <summary>
+    /// 状态模式
+    /// </summary>
     static class Program
     {
         public static void Main()

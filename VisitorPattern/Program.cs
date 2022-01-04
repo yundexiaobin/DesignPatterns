@@ -2,6 +2,9 @@
 
 namespace VisitorPattern
 {
+    /// <summary>
+    /// 访客模式
+    /// </summary>
     class Program
     {
         static void Main()

@@ -1,5 +1,8 @@
 ﻿namespace CompositePattern
 {
+    /// <summary>
+    /// 组合模式
+    /// </summary>
     static class Program
     {
         public static void Main()

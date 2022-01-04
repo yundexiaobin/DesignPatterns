@@ -2,6 +2,9 @@
 
 namespace ProxyPattern
 {
+    /// <summary>
+    /// 代理模式
+    /// </summary>
     class Program
     {
         static void Main(string[] args)

@@ -4,6 +4,9 @@ using TemplatePattern.Comparable;
 
 namespace TemplatePattern
 {
+    /// <summary>
+    /// 模板模式
+    /// </summary>
     internal static class Program
     {
         static void Main()

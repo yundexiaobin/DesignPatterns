@@ -2,6 +2,9 @@
 
 namespace FacadePattern
 {
+    /// <summary>
+    /// 外观模式
+    /// </summary>
     internal static class Program
     {
         private static void Main()

@@ -2,6 +2,9 @@
 
 namespace FactoryPattern
 {
+    /// <summary>
+    /// 工厂模式
+    /// </summary>
     static class Program
     {
         static void Main()

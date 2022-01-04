@@ -2,6 +2,9 @@
 
 namespace DecoratorPattern
 {
+    /// <summary>
+    /// 装饰模式
+    /// </summary>
     static class Program
     {
         static void Main()

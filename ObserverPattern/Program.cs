@@ -1,5 +1,8 @@
 ﻿namespace ObserverPattern
 {
+    /// <summary>
+    /// 观察者模式
+    /// </summary>
     static class Program
     {
         static void Main()

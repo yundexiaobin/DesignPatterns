@@ -2,6 +2,9 @@
 
 namespace CommandPattern
 {
+    /// <summary>
+    /// 命令模式
+    /// </summary>
     internal static class Program
     {
         private static void Main()
